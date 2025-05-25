@@ -1,9 +1,10 @@
+# 🧠 AgentForge: Personalized AI Agents for Businesses
 # 🌟 Join Us: Build the Future of Personalized AI Agents
 
 Welcome to our company—where your code can change how the world interacts with AI.  
 We are on a mission to empower organizations with **personalized AI agent teams** tailored to their unique needs.
 
-## 🚀 Our Vision
+##🚀 Our Vision
 
 We believe the next leap in productivity and creativity will come from AI agents that don’t just automate—they collaborate, adapt, and elevate teams. Our goal is to build, deploy, and continually evolve these agents for organizations across industries.
 
@@ -36,7 +37,8 @@ If you thrive on autonomy, creativity, and solving tough problems—let’s talk
 
 ## 🤝 How to Get Involved
 
-- **Introduce yourself:** Open an [issue](https://github.com/vinayjoshii/your-repo/issues) or reach out via email (replace with your email).
+- **Introduce yourself:** Open an[issue](https://github.com/vinayjoshii/AgentForge/issues)
+ or reach out via email (replace with your email).
 - **Share your GitHub or portfolio:** We love seeing what you’ve built.
 - **Join the brainstorming:** Suggest features, integrations, or improvements.
 
@@ -47,5 +49,7 @@ Let’s create AI agents that work for people, not the other way around.
 
 ---
 
-*Connect with us on [LinkedIn](#) | [Twitter](#) | [Email](mailto:your@email.com)*
+*Connect with us on [www.linkedin.com/in/
+](#) | [Twitter](#) | [Email](joshivinay7891@email.com)*
+
 
